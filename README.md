@@ -3,6 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <meta name="keywords" content="eqbaalmubarock,iqbal.copypeist, belajar pemrograman, coding, html, web">
         <title>Muhammad Iqbal</title>
     </head>
     <body bgcolor=#4858a8;>
