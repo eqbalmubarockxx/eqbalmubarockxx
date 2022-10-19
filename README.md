@@ -56,7 +56,7 @@
           <tr>
           <td>quotes</td>
           <td><pre>:</pre></td>
-          <td><br><i>"tetap memberi
+          <td><i>"tetap memberi
             walau tak suci,</i><br><i>terus mengobati
             walau membiru"</i></td>
           </tr>
