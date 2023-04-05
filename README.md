@@ -3,14 +3,12 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Biodata Saya</title>
   </head>
   <body>
     <header>
       Biodata Saya
     </header>
-    <img class="profil" src="https://photos.app.goo.gl/ptEF5Lz74Peeg8yH7" alt="foto profil">
-    <h1>Muhammad Iqbal</h1>
+   <h1>Muhammad Iqbal a.k.a eqbaalmubarockx<h1>
     <table>
       <tr>
         <td>Nama</td>
@@ -20,7 +18,7 @@
       <tr>
         <td>Tempat/Tanggal Lahir</td>
         <td>:</td>
-        <td>Garut, 3 Juni 2001</td>
+        <td>Garut, 8 Juni 2001</td>
       </tr>
       <tr>
         <td>Alamat</td>
