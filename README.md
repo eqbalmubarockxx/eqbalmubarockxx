@@ -1,65 +1,87 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-         <meta name="keywords" content="eqbaalmubarock,iqbal.copypeist, belajar pemrograman, coding, html, web">
-        <title>Muhammad Iqbal</title>
-    </head>
-    <body bgcolor=#4858a8;>
-      <header class="header">
-        <figure class="text-center">
-            <img style="width:170px;height:116px;"
-                src="foto.jpg"
-                alt="profil saya">
-            <figcaption>Muhammad Iqbal</figcaption>
-          </figure>
-          <br>
-          <nav>
-            <div class="end">
-                <a href="https://www.instagram.com/iqbal.copypeist_/">Instagram</a>
-                <a href="https://www.instagram.com/_gskn/">Karya</a>
-                <a href="https://api.whatsapp.com/send/?phone=6285156433746">Kontak</a>
-            </div>
-        </nav>
-        <br><br>
-          <main>
-            <h1>Biodata Saya</h1>
-            <hr>
-        <br>
-        <table>
-          <tr>
-          <td>Nama </td>
-          <td><pre>:</pre></td>
-          <td>Muhammad Iqbal</td>
-          </tr>
-          <tr>
-          <td>Tempat/Tanggal Lahir </td>
-          <td><pre>:</pre></td>
-          <td>Garut, juni 2001</td>
-          </tr>
-          <tr>
-          <td>Alamat </td>
-          <td><pre>:</pre></td>
-          <td>Garut</td>
-          </tr>
-          <tr>
-          <td>Hobby </td>
-          <td><pre>:</pre></td>
-          <td>semua yang kulakukan adalah hobiku</td>
-          </tr>
-          <tr>
-          <td>Pendidikan Terakhir </td>
-          <td><pre>:</pre></td>
-          <td>SMK</td>
-          </tr>
-          <tr>
-          <td>quotes</td>
-          <td><pre>:</pre></td>
-          <td><i>"tetap memberi
-            walau tak suci,</i><br><i>terus mengobati
-            walau membiru"</i></td>
-          </tr>
-          </main>
-    </body>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biodata Saya</title>
+    <style>
+      /* styling untuk header */
+      header {
+        background-color: #4858a8;
+        color: white;
+        padding: 20px;
+        text-align: center;
+        font-size: 24px;
+      }
+
+      /* styling untuk foto profil */
+      .profil {
+        border-radius: 50%;
+        border: 5px solid white;
+        width: 170px;
+        height: 170px;
+        margin: 0 auto;
+        display: block;
+      }
+
+      /* styling untuk nama */
+      h1 {
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: 36px;
+      }
+
+      /* styling untuk tabel */
+      table {
+        margin: 0 auto;
+        border-collapse: collapse;
+        font-size: 18px;
+      }
+
+      table td:first-child {
+        font-weight: bold;
+        padding-right: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      Biodata Saya
+    </header>
+    <img class="profil" src="https://photos.app.goo.gl/ptEF5Lz74Peeg8yH7" alt="foto profil">
+    <h1>Muhammad Iqbal</h1>
+    <table>
+      <tr>
+        <td>Nama</td>
+        <td>:</td>
+        <td>Muhammad Iqbal</td>
+      </tr>
+      <tr>
+        <td>Tempat/Tanggal Lahir</td>
+        <td>:</td>
+        <td>Garut, 3 Juni 2001</td>
+      </tr>
+      <tr>
+        <td>Alamat</td>
+        <td>:</td>
+        <td>Garut</td>
+      </tr>
+      <tr>
+        <td>Hobby</td>
+        <td>:</td>
+        <td>Semua yang kulakukan adalah hobiku</td>
+      </tr>
+      <tr>
+        <td>Pendidikan Terakhir</td>
+        <td>:</td>
+        <td>SMK</td>
+      </tr>
+      <tr>
+        <td>Quotes</td>
+        <td>:</td>
+        <td><i>"Tetap memberi walau tak suci, terus mengobati walau membiru"</i></td>
+      </tr>
+    </table>
+  </body>
 </html>
