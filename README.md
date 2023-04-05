@@ -31,9 +31,9 @@
         <td>Semua yang kulakukan adalah hobiku</td>
       </tr>
       <tr>
-        <td>Pendidikan Terakhir</td>
+        <td>Pendidikan</td>
         <td>:</td>
-        <td>SMK</td>
+        <td>Informatika</td>
       </tr>
       <tr>
         <td>Quotes</td>
