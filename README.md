@@ -4,46 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Biodata Saya</title>
-    <style>
-      /* styling untuk header */
-      header {
-        background-color: #4858a8;
-        color: white;
-        padding: 20px;
-        text-align: center;
-        font-size: 24px;
-      }
-
-      /* styling untuk foto profil */
-      .profil {
-        border-radius: 50%;
-        border: 5px solid white;
-        width: 170px;
-        height: 170px;
-        margin: 0 auto;
-        display: block;
-      }
-
-      /* styling untuk nama */
-      h1 {
-        text-align: center;
-        margin-top: 20px;
-        margin-bottom: 10px;
-        font-size: 36px;
-      }
-
-      /* styling untuk tabel */
-      table {
-        margin: 0 auto;
-        border-collapse: collapse;
-        font-size: 18px;
-      }
-
-      table td:first-child {
-        font-weight: bold;
-        padding-right: 10px;
-      }
-    </style>
   </head>
   <body>
     <header>
