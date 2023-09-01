@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Profil GitHub Muhammad Iqbal</title>
 </head>
 <body>
   <header>
@@ -12,15 +11,15 @@
   </header>
 
   <section>
-    <h2>Tentang Saya</h2>
-    <p>Saya adalah seorang pengembang perangkat lunak yang bersemangat untuk membuat dunia menjadi tempat yang lebih baik melalui teknologi.</p>
+    <h2>About Me</h2>
+    <p>I'm a web developer who will make the world a better place with the fast-growing technology of the last century.</p>
   </section>
 
   <section>
     <h2>Portofolio</h2>
     <ul>
-      <li><a href="https://github.com/username/project1">Project 1</a></li>
-      <li><a href="https://github.com/username/project2">Project 2</a></li>
+      <li><a href="https://gskn-id.netlify.app/">Project 1</a></li>
+      <li><a href="https://alayyawedding.netlify.app/">Project 2</a></li>
       <!-- Tambahkan proyek-proyek Anda di sini -->
     </ul>
   </section>
