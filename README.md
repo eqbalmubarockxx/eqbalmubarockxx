@@ -6,8 +6,8 @@
 </head>
 <body>
   <header>
-    <h1>Muhammad Iqbal</h1>
-    <p>Passionate Developer | Open Source Enthusiast | Lifelong Learner</p>
+    <h1>Muhammad Iqbal Mubarok</h1>
+    <p>Passionate Developer | Junior FrontEnd Developer | Lifelong Learner</p>
   </header>
 
   <section>
