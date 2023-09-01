@@ -1,45 +1,38 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  </head>
-  <body>
-    <header>
-      Biodata Saya
-    </header>
-   <h1>Muhammad Iqbal a.k.a eqbaalmubarockx<h1>
-    <table>
-      <tr>
-        <td>Nama</td>
-        <td>:</td>
-        <td>Muhammad Iqbal</td>
-      </tr>
-      <tr>
-        <td>Tempat/Tanggal Lahir</td>
-        <td>:</td>
-        <td>Garut, 8 Juni 2001</td>
-      </tr>
-      <tr>
-        <td>Alamat</td>
-        <td>:</td>
-        <td>Garut</td>
-      </tr>
-      <tr>
-        <td>Hobby</td>
-        <td>:</td>
-        <td>Semua yang kulakukan adalah hobiku</td>
-      </tr>
-      <tr>
-        <td>Pendidikan</td>
-        <td>:</td>
-        <td>Informatika</td>
-      </tr>
-      <tr>
-        <td>Quotes</td>
-        <td>:</td>
-        <td><i>"Tetap memberi walau tak suci, terus mengobati walau membiru"</i></td>
-      </tr>
-    </table>
-  </body>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Profil GitHub Muhammad Iqbal</title>
+</head>
+<body>
+  <header>
+    <h1>Muhammad Iqbal</h1>
+    <p>Passionate Developer | Open Source Enthusiast | Lifelong Learner</p>
+  </header>
+
+  <section>
+    <h2>Tentang Saya</h2>
+    <p>Saya adalah seorang pengembang perangkat lunak yang bersemangat untuk membuat dunia menjadi tempat yang lebih baik melalui teknologi.</p>
+  </section>
+
+  <section>
+    <h2>Portofolio</h2>
+    <ul>
+      <li><a href="https://github.com/username/project1">Project 1</a></li>
+      <li><a href="https://github.com/username/project2">Project 2</a></li>
+      <!-- Tambahkan proyek-proyek Anda di sini -->
+    </ul>
+  </section>
+
+  <section>
+    <h2>Badge</h2>
+    <!-- Tambahkan badge di sini -->
+  </section>
+
+  <section>
+    <h2>Statistik Aktivitas</h2>
+    <!-- Tambahkan widget statistik aktivitas GitHub Anda di sini -->
+  </section>
+</body>
 </html>
