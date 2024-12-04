@@ -20,6 +20,7 @@
     <ul>
       <li><a href="https://gskn-id.netlify.app/">Project 1</a></li>
       <li><a href="https://alayyawedding.netlify.app/">Project 2</a></li>
+      <li><a href="https://theweddingof-puput-asep.netlify.app/">Project 3</a></li>
       <!-- Tambahkan proyek-proyek Anda di sini -->
     </ul>
   </section>
